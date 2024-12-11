@@ -1,0 +1,38 @@
+h2{
+  color: rgb(34, 224, 202);
+}
+
+body{
+  text-align: center;
+  color: black;
+}
+label{
+    color: blue;
+}
+.ma-classe{
+    color:#ce3e86
+}
+/* setting background color*/
+div{
+  background-color: rgb(117, 138, 228);
+  background: left 5% / 15% 30% repeat-x url(image/cool-cat.jpg);
+  background: center / contain no-repeat url("../../media/examples/firefox-logo.svg"),
+            #eee 35% url("../../media/examples/lizard.png");
+ 
+
+}
+section{
+  background: linear-gradient(to bottom, #ffffff, #ce3e86);
+}
+#log{
+  width: 300px;
+}
+img{
+  width: 500px;
+}
+video{
+  width: 500px;
+}
+.thin {
+  font-weight: 100;
+}
